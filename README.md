@@ -8,7 +8,6 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
-  
   Hi, I am a professional and passionate web and mobile developer with over 5 years of experience in remote work.
   
   During this period, I handled many Web and mobile projects using  React, Next.js, React-native, Native Android, Swift, Flutter, Tailwind, MUI, Google Firebase, and AWS.
