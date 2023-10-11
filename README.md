@@ -8,15 +8,15 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
-  Hi, I am a professional and passionate web and mobile developer with over 5 years of experience in remote work.
-  
-  During this period, I handled many Web and mobile projects using  React, Next.js, React-native, Native Android, Swift, Flutter, Tailwind, MUI, Google Firebase, and AWS.
-  
-  The work experience links above are some of my previous ones.
-  
-  If you provide a design, I can turn it into an app that perfectly matches your design (works on any device) and works just like a design prototype.
-  
-  I will do my best for your project and business goals and bring all my success and experience to your business.
+Hi there! I'm a professional and passionate web and mobile developer with over 7 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python. 
+
+Throughout my career, I have successfully delivered numerous projects using technologies such as Next.js, React Native, Android (Java/Kotlin), Swift, and Flutter. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
+
+In addition to my technical skills, I have hands-on experience with popular UI libraries like Tailwind CSS and Material-UI. I have also utilized cloud platforms such as Google Firebase and Amazon Web Services (AWS) to build scalable and robust applications.
+
+You can find links to some of my previous work experiences above, showcasing my ability to bring design prototypes to life and align them with your business goals.
+
+I am committed to delivering high-quality solutions and leveraging my expertise to contribute to the success of your projects. Let's collaborate and create something amazing!
 
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
