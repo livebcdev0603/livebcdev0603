@@ -8,7 +8,7 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
-Hi there! I'm a professional and passionate web and mobile developer with over 7 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python. 
+I'm a professional and passionate web and mobile developer with over 7 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python. 
 
 Throughout my career, I have successfully delivered numerous projects using technologies such as Next.js, React Native, Android (Java/Kotlin), Swift, and Flutter. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
 
