@@ -83,7 +83,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullstackWEB-developer&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" /><!-- wi*quL3fcV --> <br/>
+<img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=adamalston&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" /><!-- wi*quL3fcV --> 
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&layout=compact&theme=maroongold&include_all_commits=true" />
+<img style="height: 150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&layout=compact&theme=maroongold&include_all_commits=true" /> <br/>
 </div>
