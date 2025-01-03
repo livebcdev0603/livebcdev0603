@@ -83,7 +83,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullstackWEB-developer&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --> <br/>
+<img height="137px" src="https://github-readme-stats.vercel.app/api?username=adamalston&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" /><!-- wi*quL3fcV --> <br/>
 
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&layout=compact&theme=maroongold&include_all_commits=true" />
 </div>
