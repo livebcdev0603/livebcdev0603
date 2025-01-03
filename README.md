@@ -79,10 +79,6 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=adamalston)
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=FullstackWEB-developer&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FullstackWEB-developer&layout=compact&theme=maroongold&include_all_commits=true" align="right" style="height: 150px" /><br/>  
-
 <img style="height: 150px" align="left" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide=html&hide_title=true&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" /><!-- wi*quL3fcV --> 
 
 <img style="height: 150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livebcdev0603&layout=compact&theme=maroongold&include_all_commits=true" /> <br/>
