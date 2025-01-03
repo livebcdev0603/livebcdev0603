@@ -76,7 +76,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 
 <div align="center"/>
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=FullstackWEB-developer)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=adamalston)
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=FullstackWEB-developer&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" align="left" style="height: 150px" />
