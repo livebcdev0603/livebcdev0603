@@ -11,7 +11,7 @@
   <br />
 I'm a professional and passionate full stack developer with over 10 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python and dapp developmenet with web3 integration.
 
-Throughout my career, I have successfully delivered numerous projects using technologies such as Next.js, React Native, Android (Java/Kotlin), Swift, and Flutter. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
+Throughout my career, I have successfully delivered numerous projects using technologies such as Next.js, and Flutter. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
 
 In addition to my technical skills, I have hands-on experience with popular UI libraries like Tailwind CSS and Material-UI. I have also utilized cloud platforms such as Google Firebase and Amazon Web Services (AWS) to build scalable and robust applications.
 
@@ -21,11 +21,11 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 
 ### Technical Skills:
 
-| Front-End                                       | Back-End                                            | Mobile                                                    | Cloud Platforms | DevOps     |
+| Front-End                                       | Back-End                                            | Emerging Tech                                             | Cloud Platforms | DevOps     |
 | :---------------------------------------------- | :-------------------------------------------------- | :-------------------------------------------------------- | :-------------- | :--------- |
-| HTML5, CSS3, JavaScript, React, Next.js, Vue.js | Node.js, Express.js, PHP & Laravel, Python & Django | Swift, Objective-C, Kotlin, Java                          | AWS             | CI/CD      |
-| Responsive design, Bootstrap, TailwindCSS       | RESTful APIs, GraphQL, OAuth                        | iOS & Android architecture, Cross-platform (React Native) | Google Cloud    | Docker     |
-| Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                          | SQLite, Realm, Firebase, Core Data, MySQL                 | Azure           | Kubernetes |
+| HTML5, CSS3, JavaScript, React, Next.js, Vue.js | Node.js, Express.js, PHP & Laravel, Python & Django | Blockchain                                                | AWS             | CI/CD      |
+| Responsive design, Bootstrap, TailwindCSS       | RESTful APIs, GraphQL, OAuth                        | Machine Learning                                          | Google Cloud    | Docker     |
+| Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                          |                                                           | Azure           | Kubernetes |
 
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
