@@ -8,7 +8,7 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
   <br />
-I'm a professional and passionate full stack and web3 developer with over 9 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python and dapp developmenet with web3 integration. 
+I'm a professional and passionate full stack and web3 developer with over 10 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python and dapp developmenet with web3 integration. 
 
 Throughout my career, I have successfully delivered numerous projects using technologies such as Next.js, React Native, Android (Java/Kotlin), Swift, and Flutter. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
 
