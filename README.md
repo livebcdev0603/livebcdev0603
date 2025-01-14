@@ -1,5 +1,4 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
   <br />
 I'm a professional and passionate full stack developer with over 10 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python and dapp developmenet with web3 integration.
 
@@ -80,6 +79,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=adamalston)
 
 <div>
+
 <img style="height: 150px" align="left" src="https://github-readme-stats.vercel.app/api?username=adamalston&hide=html&hide_title=true&show_icons=true&count_private=true&layout=compact&theme=maroongold&include_all_commits=true" /><!-- wi*quL3fcV -->
 
 <img style="height: 150px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livebcdev0603&layout=compact&theme=maroongold&include_all_commits=true" /> <br/>
