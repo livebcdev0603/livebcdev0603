@@ -13,6 +13,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 
 ### Technical Skills:
 
+
 | Front-End                                       | Back-End                                            | Emerging Tech                                             | Cloud Platforms | DevOps     |
 | :---------------------------------------------- | :-------------------------------------------------- | :-------------------------------------------------------- | :-------------- | :--------- |
 | HTML5, CSS3, JavaScript, React, Next.js, Vue.js | Node.js, Express.js, PHP & Laravel, Python & Django | Blockchain                                                | AWS             | CI/CD      |
