@@ -1,7 +1,7 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <br />
   
-I'm a professional and passionate full stack developer with over 10 years of remote work experience. I specialize in front-end development using modern frameworks like React and Vue, as well as back-end development with Python and dapp developmenet with web3 integration.
+I'm a professional and passionate software engineer with over 10 years of work experience. I specialize in front-end development using modern frameworks like React, Next.js and Vue, as well as back-end development with Python and dapp developmenet with web3 integration.
 
 Throughout my career, I have successfully delivered numerous projects using technologies such as Next.js, and Flutter. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
 
@@ -16,7 +16,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 | Front-End                                       | Back-End                                            | Emerging Tech                                             | Cloud Platforms | DevOps     |
 | :---------------------------------------------- | :-------------------------------------------------- | :-------------------------------------------------------- | :-------------- | :--------- |
 | HTML5, CSS3, JavaScript, React, Next.js, Vue.js | Node.js, Express.js, PHP & Laravel, Python & Django | Blockchain                                                | AWS             | CI/CD      |
-| Responsive design, Bootstrap, TailwindCSS       | RESTful APIs, GraphQL, OAuth                        | Machine Learning                                          | Google Cloud    | Docker     |
+| Responsive design, Bootstrap, TailwindCSS       | & Flask, RESTful APIs, GraphQL, OAuth               | Machine Learning                                          | Google Cloud    | Docker     |
 | Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                          |                                                           | Azure           | Kubernetes |
 
  <div>
