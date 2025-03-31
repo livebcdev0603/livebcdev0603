@@ -1,5 +1,6 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
   <br />
+
   
 I'm a professional and passionate software engineer with over 10 years of work experience. I specialize in front-end development using modern frameworks like React, Next.js and Vue, as well as back-end development with Python and dapp developmenet with web3 integration.
 
