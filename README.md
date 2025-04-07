@@ -2,7 +2,7 @@
   <br />
 
   
-I'm a professional and passionate software engineer with over 10 years of work experience. I specialize in front-end development using modern frameworks like React, Next.js and Vue, as well as back-end development with Python and dapp developmenet with web3 integration.
+I'm a professional and passionate software engineer with over 10 years of work experience. I specialize in back-end development using modern frameworks like Node.js, Python, .NET, PHP/Laravel and JavaSpring.
 
 Throughout my career, I have successfully delivered numerous projects using technologies such as Next.js, and Flutter. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
 
