@@ -21,6 +21,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 <!-- - 💬 Telegram : [@pdev217](https://t.me/pdev217/);
 - 📝 Email : sgirad86@gmail.com -->
 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <!--     <a href="https://developer.android.com" target="_blank">
