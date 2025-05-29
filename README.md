@@ -16,11 +16,7 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
-</div>
-    
-<!-- - 💬 Telegram : [@pdev217](https://t.me/pdev217/);
-- 📝 Email : sgirad86@gmail.com -->
-
+ </div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
