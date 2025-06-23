@@ -15,7 +15,6 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 | Responsive design, Bootstrap, TailwindCSS       | & Flask, RESTful APIs, GraphQL, OAuth               | Machine Learning                                          | Google Cloud    | Docker     |
 | Version Control: Git, GitHub                    | MySQL, MongoDB, PostgreSQL                          |                                                           | Azure           | Kubernetes |
 
-
  <div>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" />
  </div>
