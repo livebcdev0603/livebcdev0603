@@ -1,7 +1,5 @@
 ### Hello, there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-
 I'm a professional and passionate software engineer with over 10 years of work experience. 
 Throughout my career, I have successfully delivered numerous projects using technologies such as React.js, Next.js, Node.js, Python and AI/ML. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
 In addition to my technical skills, I have hands-on experience with popular UI libraries like Tailwind CSS and Material-UI. I have also utilized cloud platforms such as Google Firebase and Amazon Web Services (AWS) to build scalable and robust applications.
