@@ -41,7 +41,6 @@ I am committed to delivering high-quality solutions and leveraging my expertise 
 <br><br>
 
 <!-- 💗 **My Favorites Techs:**
-
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
