@@ -3,6 +3,7 @@
 I'm a senior software engineer with over 10 years of work experience. 
 Throughout my career, I have successfully delivered numerous projects using technologies such as React.js, Next.js, Node.js, Python and AI/ML. I am well-versed in responsive design principles and can transform your design into a fully functional and visually appealing application that works seamlessly across devices.
 
+
 In addition to my technical skills, I have hands-on experience with popular UI libraries like Tailwind CSS and Material-UI. I have also utilized cloud platforms such as Google Firebase and Amazon Web Services (AWS) to build scalable and robust applications.
 You can find links to some of my previous work experiences above, showcasing my ability to bring design prototypes to life and align them with your business goals.
 I am committed to delivering high-quality solutions and leveraging my expertise to contribute to the success of your projects. Let's collaborate and create something amazing!
